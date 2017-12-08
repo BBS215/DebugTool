@@ -33,6 +33,7 @@ Register data: 0x10
 Пример:
 
 =========================================
+
 : DebugTool.exe write 8 0x5005 0
 
 Device found: VID: 0x043B  PID: 0x0325  UsagePage: 0xFF00  Usage: 0x3
