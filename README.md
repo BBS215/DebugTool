@@ -28,7 +28,7 @@ Register data: 0x10
 
 =========================================
 
-Запись регистра: DebugTool.exe read width register_addr register_data
+Запись регистра: DebugTool.exe write width register_addr register_data
 
 Пример:
 
